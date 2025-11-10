@@ -1,14 +1,22 @@
-Sentiment Analysis of Product Reviews using Naive Bayes
+💬 Sentiment Analysis of Product Reviews using Naive Bayes
+📖 Overview
 
-📌 Description
-This project analyzes product reviews and classifies them as positive or negative using the Naive Bayes algorithm. It helps understand customer opinions efficiently.
+This project performs Sentiment Analysis on product reviews using the Naive Bayes algorithm.
+It classifies customer reviews as Positive 😊 or Negative 😞, helping businesses understand user feedback and improve their products.
 
 ⚙️ Features
-Text preprocessing and vectorization
 
-Sentiment prediction using Naive Bayes
+✅ Text preprocessing (tokenization, stopword removal, vectorization)
+✅ Sentiment prediction using Naive Bayes
+✅ Clean, responsive, and easy-to-use interface
+✅ Real-time sentiment detection
 
-Simple and user-friendly interface
+🧠 Technologies Used
 
-🧠 Technologies
-Python, Flask, Scikit-learn, HTML, CSS
+Python
+
+Flask – for backend
+
+Scikit-learn – for model training and prediction
+
+HTML, CSS – for frontend
